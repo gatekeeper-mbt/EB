@@ -1,0 +1,5 @@
+MBT065W-IRR-V3.1
+紅外線接收板PCB
+
+MBT065W-MB-V3.1
+65W 安定器PCB
